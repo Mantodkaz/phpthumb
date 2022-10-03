@@ -8,7 +8,7 @@ echo "\e[0;34m#############################################\n";
 echo "\e[0;34m#   \e[1;36mphpThumb Command Injection Mass Exploit \e[0;34m#\n";
 echo "\e[0;34m#   \e[1;36mD704T Hacker Team                       \e[0;34m#\n";
 echo "\e[0;34m#   \e[1;36mCoded by NamiSec                        \e[0;34m#\n";
-echo "\e[0;34m#                                                           #\n";
+echo "\e[0;34m#                                           #\n";
 echo "\e[0;34m# \e[1;36mGithub : https://github.com/MantodKaz/    \e[0;34m#\n";
 echo "\e[0;34m#############################################\n";
  echo "\n\e[1;37m Ex : http://site.com/[path to phpthumb]/phpthumb/\n\n\n";
