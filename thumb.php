@@ -58,7 +58,7 @@ $url = trim($pron);
        curl_setopt($cek, CURLOPT_RETURNTRANSFER, 1);
        $ceek = curl_exec($cek);
        $ceeks = curl_getinfo($cek, CURLINFO_HTTP_CODE);
-       if(preg_match("/xixixi/",$ceek) or $ceeks == 200){
+       if(preg_match("/xixixi/",$ceek)){
            echo "$pthumb $n";
            sleep(0.1);
 echo "$t";
