@@ -1,13 +1,13 @@
 <?php 
 /*  phpThumb Command Injection Mass Exploiter
-      D704T Hacker Team | Coded by NamiSec
+      D704T Hacker Team | Coded by MantodKaz
  */
  error_reporting(0);
 echo "\n";
 echo "\e[0;34m#############################################\n";
 echo "\e[0;34m#   \e[1;36mphpThumb Command Injection Mass Exploit \e[0;34m#\n";
 echo "\e[0;34m#   \e[1;36mD704T Hacker Team                       \e[0;34m#\n";
-echo "\e[0;34m#   \e[1;36mCoded by NamiSec                        \e[0;34m#\n";
+echo "\e[0;34m#   \e[1;36mCoded by MantodKaz                      \e[0;34m#\n";
 echo "\e[0;34m#                                           #\n";
 echo "\e[0;34m# \e[1;36mGithub : https://github.com/MantodKaz/    \e[0;34m#\n";
 echo "\e[0;34m#############################################\n";
